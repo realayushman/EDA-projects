@@ -1,2 +1,2 @@
-# EDA-project-1-Diwali-Sales-Analysis-
-This is my first EDA project.
+# EDA projects
+I upload EDAs here
